@@ -6,6 +6,6 @@
 
 <a href="about.jsp">About Page</a>
 
-<a href="service.jsp">Service Page</a>
+<a href="services.jsp">Service Page</a>
 </body>
 </html>
